@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\Администратор\source\repos\Tetris\Tetris\main.cpp(408,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Администратор\source\repos\Tetris\Tetris\main.cpp(583,7): warning C4551: function call missing argument list
+C:\Users\Администратор\source\repos\Tetris\Tetris\main.cpp(712,7): warning C4551: function call missing argument list
+C:\Users\Администратор\source\repos\Tetris\Tetris\main.cpp(772,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Администратор\source\repos\Tetris\Tetris\main.cpp(532): warning C4715: 'AlignCenter': not all control paths return a value
+C:\Users\Администратор\source\repos\Tetris\Tetris\main.cpp(542): warning C4715: 'AlignCenterChoice': not all control paths return a value
+C:\Users\Администратор\source\repos\Tetris\Tetris\main.cpp(553): warning C4715: 'OutPut': not all control paths return a value
+  Tetris.vcxproj -> C:\Users\Администратор\source\repos\Tetris\Debug\Tetris.exe
